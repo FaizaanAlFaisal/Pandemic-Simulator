@@ -1,10 +1,17 @@
-Open Sem2_Project(.exe) in the release folder 
-to run program
+# Introduction
+
+Our Semester 2 Project for Object-Oriented Programming.
+Done alongside @munimdev and @BaqirEMuhammad.
+This project was very relevant to the time, as
+the Covid-19 Pandemic had begun when we created this.
 
 All code written by us was done so in C++. We 
 included the use of a library which was written 
 in Python, so our .exe file requires Python and
 some of its libraries to run.
+
+Open Sem2_Project(.exe) in the release folder 
+to run program
 
 # Requirements
 
